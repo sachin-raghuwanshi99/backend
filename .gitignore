@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.local
+*.log
+npm-debug.log*
+dist/
+build/
+coverage/
+04_db_project/
