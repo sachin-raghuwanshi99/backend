@@ -4,6 +4,7 @@ node_modules/
 *.log
 npm-debug.log*
 dist/
+.DS_Store
 build/
 coverage/
 04_db_project/
