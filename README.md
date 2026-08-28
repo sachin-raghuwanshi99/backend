@@ -21,5 +21,14 @@ MongoDB and backend integration practice.
 - Postman
 - JavaScript
 
-### 04 — Database Project
-Coming soon.
+### 04 — MERN Project
+A simple full-stack application that allows users to create posts by uploading an image and adding a caption. The project includes both a frontend and a backend.
+
+Features:
+
+Upload an image
+Add a caption
+Create and display posts
+Frontend and backend integration
+
+## Technologies: React, Node.js, Express.js, MongoDB
