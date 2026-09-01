@@ -52,3 +52,30 @@ This project demonstrates user registration and authentication using JSON Web To
 - JSON Web Token (JWT)
 - Cookie Parser
 - dotenv
+
+### 06_Spotify_project
+
+A backend project inspired by a music streaming platform like Spotify. It provides APIs for user authentication, music and album management, and music file uploads.
+
+**Features:**
+- User registration and login
+- Role-based authentication for artists
+- JWT authentication using HTTP cookies
+- Music upload functionality
+- Audio file storage using ImageKit
+- Create albums
+- Get all music
+- Get all albums
+- Get album by ID
+- MongoDB database integration
+
+**Technologies:**
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JSON Web Token (JWT)
+- bcrypt
+- ImageKit
+- Multer
+- Cookie Parser
