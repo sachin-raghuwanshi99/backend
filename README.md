@@ -2,80 +2,37 @@
 
 This repository contains my backend development practice and projects.
 
-## 📁 Structure
+## 📁 Projects
 
 ### 01_start
-
 Basic Node.js and backend fundamentals.
 
 ### 02_postman
-
 API development and testing using Postman.
 
 ### 03_mongodb
-
 MongoDB and backend integration practice.
 
 ### 04_MERN_project
+A simple full-stack application for creating posts with images and captions.
 
-A simple full-stack application that allows users to create posts by uploading an image and adding a caption. The project includes both a frontend and a backend.
-
-**Features:**
-- Upload an image
-- Add a caption
-- Create and display posts
-- Frontend and backend integration
-
-**Technologies:** React, Node.js, Express.js, MongoDB
+**Tech:** React, Node.js, Express.js, MongoDB
 
 ### 05_Authentication
+User authentication using JWT, HTTP cookies, and role-based authorization.
 
-A backend authentication project built with Node.js, Express.js, MongoDB, and JWT.
-
-This project demonstrates user registration and authentication using JSON Web Tokens (JWT) stored in HTTP cookies.
-
-**Features:**
-- User registration
-- MongoDB database integration
-- User model using Mongoose
-- JWT token generation
-- JWT stored in cookies
-- Cookie-based authentication
-- Protected routes
-- Authentication validation
-
-**Technologies:**
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- JSON Web Token (JWT)
-- Cookie Parser
-- dotenv
+**Tech:** Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt, Cookie Parser
 
 ### 06_Spotify_project
+A Spotify-inspired backend for managing users, music, and albums, with audio uploads using ImageKit.
 
-A backend project inspired by a music streaming platform like Spotify. It provides APIs for user authentication, music and album management, and music file uploads.
+**Tech:** Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt, Multer, ImageKit
 
-**Features:**
-- User registration and login
-- Role-based authentication for artists
-- JWT authentication using HTTP cookies
-- Music upload functionality
-- Audio file storage using ImageKit
-- Create albums
-- Get all music
-- Get all albums
-- Get album by ID
-- MongoDB database integration
+### 07_Validators
+Backend request validation and automated testing using Express Validator and Jest.
 
-**Technologies:**
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- JSON Web Token (JWT)
-- bcrypt
-- ImageKit
-- Multer
-- Cookie Parser
+**Tech:** Node.js, Express.js, Express Validator, Jest
+
+## 🛠️ Overall Tech Stack
+
+Node.js · Express.js · MongoDB · Mongoose · JavaScript · Postman · JWT · J
